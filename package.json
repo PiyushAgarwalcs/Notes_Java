@@ -13,12 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vivekkakadiya/Notes-using-Spring-Boot.git"
+    "url": "https://github.com/PiyushAgarwalcs/Notes_Java"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vivekkakadiya/Notes-using-Spring-Boot/issues"
+    "url": "https://github.com/PiyushAgarwalcs/Notes_Java"
   },
-  "homepage": "https://github.com/vivekkakadiya/Notes-using-Spring-Boot#readme"
 }
